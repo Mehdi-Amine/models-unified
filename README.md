@@ -1,5 +1,5 @@
 # models-unified
-__Code implementation and examples for my article on Medium about Ensemble Methods.__
+__Code implementation and examples for my article on Medium: [Ensemble Methods, from Intuition to Implementation](https://medium.com/data-science/ensemble-methods-or-democracy-for-ai-bac2fa129f61).__
 
 Provided you have already built a couple decent predictors, think about combining them into an Ensemble predictor. Bear in mind that an Ensemble works best when its individual predictors are different from one another. To introduce diversity you can: 
 * Use a different training algorithm for each predictor. 
